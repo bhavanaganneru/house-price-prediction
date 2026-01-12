@@ -1,6 +1,9 @@
 # House Price Prediction
 
-This project predicts house prices using Machine Learning.
+This project predicts house prices using machine learning techniques.
+It uses historical housing data and applies Linear Regression to estimate
+the price of a house based on features such as bedrooms, bathrooms, and
+square footage.
 
 ## Tools Used
 - Python
